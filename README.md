@@ -1,5 +1,11 @@
 # 认真做些SHI
-HTML
-<p1>echo</p>
-<p2>我喜欢网络</p2>
-HTML
+<html>
+<head>
+<style type="text/css">
+h1 {color: red}
+p {color: blue}
+</style>
+</head>
+<h1>echo</h1>
+<p>我喜欢网络</p>
+</html>
