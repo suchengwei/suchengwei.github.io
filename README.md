@@ -9,9 +9,8 @@ p {color: blue}
 <body>
 了解更多： 安医大巢湖医院 <a href="http://www.aychfy.com">http://www.aychfy.com</a>
 </body>
-<h1>刘强我爱你</h1>
-<p>我喜欢网络</p>
-<p>
-今天是2017.7.15
-</p>
+<h1>一个页面</h1>
+<p>第二个页面</p>
+<p>2017.7.15</p>
+<p>html+css</p>
 </html>
