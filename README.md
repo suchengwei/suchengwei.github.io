@@ -13,4 +13,7 @@ p {color: blue}
 <p>第二个页面</p>
 <p>2017.7.15</p>
 <p>html+css</p>
+<p>这是一首音乐<embed height="100" width="200" src="D:/CloudMusic/song.mp3" /></p>
+<h3>understand</h3>
+<p>这是一个视频<embed height="100" width="200" src="http://www.iqiyi.com/v_19rr794vlc.swf" /></p>
 </html>
